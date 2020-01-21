@@ -1,4 +1,4 @@
-# ADM-HW2-Group38
+# Yellow Taxis - How do Taxis move in NYC?
 ## Analysis on the Yellow Cab Data In New York City
 The data analysis was done on the Yellow Cab in NYC. Attached are the links of the various analysis performed on on the data and visualization of the pick up map and drop off map:
 
